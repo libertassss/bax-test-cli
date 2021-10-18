@@ -1,6 +1,6 @@
 {
   "name": "@bax-test-cli/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "zhongyuanyuan <zhongyuanyuan@baixing.com>",
   "homepage": "",
@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@bax-test-cli/utils": "^1.0.1"
+    "@bax-test-cli/utils": "^1.0.2"
   },
   "gitHead": "fdcec14a05f82d4a70b5f3f4de8b20da96956969"
 }
