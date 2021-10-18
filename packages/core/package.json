@@ -4,7 +4,6 @@
   "description": "> TODO: description",
   "author": "zhongyuanyuan <zhongyuanyuan@baixing.com>",
   "homepage": "https://github.com/libertassss/bax-test-cli#readme",
-  "license": "ISC",
   "main": "lib/index.js",
   "bin": {
     "bax-cli": "./bin/index.js"
@@ -26,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/libertassss/bax-test-cli/issues"
   },
-  "gitHead": "8c424d4825287660c647260a8700bc48f9da64b2"
+  "gitHead": "7dff869f1f1147ddb9b624683022dc3860ccecca"
 }
