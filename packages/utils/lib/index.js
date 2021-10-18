@@ -3,6 +3,6 @@
 module.exports = utils;
 
 function utils() {
-    console.log('hello!')
+    console.log('hello!1234')
     // TODO
 }
