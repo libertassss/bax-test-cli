@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.baixing.cn:zhongyuanyuan/bax-test-cli.git"
+    "url": "https://github.com/libertassss/bax-test-cli.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
