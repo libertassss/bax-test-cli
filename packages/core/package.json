@@ -1,6 +1,6 @@
 {
   "name": "@bax-test-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "zhongyuanyuan <zhongyuanyuan@baixing.com>",
   "homepage": "",
@@ -24,6 +24,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@bax-test-cli/utils": "1.0.0"
+    "@bax-test-cli/utils": "^1.0.1"
   }
 }
